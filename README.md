@@ -14,4 +14,6 @@ we need to add those parameters in the search form:
  after that we set the query for post type that allow us to choose which custom post type we wanna make appear 
  in the search result.
  
+ The post per page is set to 3, so you can add a custom pagination to display your posts; or set post per page -1 to display all post.
+ 
  #### that's it!
